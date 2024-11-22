@@ -79,7 +79,7 @@ The impact on server performance is minimized as:
 
 ## 📄 License
 
-This project is licensed under the MIT License and it was created with help of "pixlrs/only-cf".
+This project is licensed under the MIT License and it was inspired by "pixlrs/only-cf".
 
 ## 🔐 Security
 
