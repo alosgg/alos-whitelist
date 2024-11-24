@@ -18,7 +18,7 @@ A robust IP whitelisting solution using iptables mangle table to secure your ser
 - Root access to your server
 - `iptables` installed
 - `conntrack` module enabled
-- Basic understanding of firewall rules and netfilter
+- Understanding of firewall rules and netfilter
 
 ## 🚀 Installation
 
